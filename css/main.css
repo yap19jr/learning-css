@@ -19,4 +19,11 @@
   }
   .bio-box a{
     color: green;
+  
+  }
+  #exec-bio.alert {
+    background: red;
+  }
+  .alert{
+    background: red;
   }
