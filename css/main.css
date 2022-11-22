@@ -1,0 +1,27 @@
+div{
+    border: 1px solid #000;
+  }
+  div a {
+    color: green;
+  }
+  li a{
+    color: red;
+  }
+  #special-link {
+    color:lightgray
+  }
+  .regular-link{
+    color: lightblue;
+  }
+  .italics {
+    font-style: italic;
+  }
+  #exec-bio{
+    background-color: lightgray;
+  }
+  .bio-box{
+    border: 1px solid #000;
+  }
+  .bio-box a{
+    color: green;
+  }
