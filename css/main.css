@@ -13,18 +13,24 @@
   }
   #exec-bio{
     background-color: lightgray;
+    height: 100%;
   }
   .bio-box{
     border: 1px solid #000;
+    width: 50%;
   }
   .bio-box a{
     color: green;
   }
-  #exec-bio.alert {
-    background: red;
+  .bio-wrapper{
+    /* width: 500px; */
+    /* height: 250px; */
   }
-  .alert{
+  /* #exec-bio.alert {
     background: red;
-  }
- 
+  } */
+  /* .alert{
+    background: red;
+  } */
+
 
